@@ -1,2 +1,7 @@
 Hello world
+ HEAD
 main branch edit
+
+This is a feature branch edit
+feature branch conflicting edit
+ feature-branch
